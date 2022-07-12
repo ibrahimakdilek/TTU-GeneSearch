@@ -2,4 +2,4 @@
 
 Install the requirements.txt<br>
 Run main.py<br>
-You can make the searchs by approved names.
+You can make the searches by approved names.
